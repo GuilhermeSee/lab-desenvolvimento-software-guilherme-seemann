@@ -6,4 +6,4 @@
 
 ---
 # Aula de git: 22 de agosto 2025
-## Sistema De Agenda/Calendário?
+## Sistema De Agenda/Calendário
