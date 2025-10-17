@@ -53,8 +53,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - Scripts SQL para criação e manutenção do banco
 
 **Ferramentas de Desenvolvimento:**
-- Visual Studio Code ou PHPStorm (IDE)
-- XAMPP ou WAMP para ambiente local
+- Visual Studio Code
+- XAMPP para ambiente local
 - Git para controle de versão
 - phpMyAdmin para gerenciamento do banco
 
